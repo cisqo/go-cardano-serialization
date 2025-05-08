@@ -8,7 +8,7 @@
 # Go Cardano Serialization Library
 [![GoDoc](https://godoc.org/github.com/fivebinaries/go-cardano-serialization?status.svg)](https://godoc.org/github.com/fivebinaries/go-cardano-serialization)
 
-Golang library for serialization and deserialiation of Cardano data structures. 
+Golang library for serialization and deserialization of Cardano data structures. 
 
 ## Installation
 
